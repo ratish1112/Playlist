@@ -5,6 +5,7 @@ name of the artist of the song
 and user rating of the song out of 5.
 
 You can choose to "play" the next song, previous song or display the playlist.
-You can also add to the playlist
-The song will be added before the song currently being played
+You can also add to the playlist.
+The song will be added before the song currently being played.
 Used lists because they allow efficient insertion in the middle.
+A test list has been included in the main.
